@@ -19,3 +19,7 @@ Kitap koleksiyonunu yöneten bir Kütüphane sınıfı oluşturun. Kitap ekleme,
 
 Kullanıcı Arayüzü:
 Kullanıcıların kütüphane sistemiyle etkileşime girmesine olanak tanıyan basit bir konsol tabanlı kullanıcı arayüzü uygulayın. Kullanıcıdan çıkmayı seçene kadar tekrar tekrar eylem talebinde bulunmak için bir döngü kullanın.
+
+
+https://github.com/alihankvlc/LibraryApplication/assets/147824938/6a570fa6-bab8-4b45-ad9c-b6b39630f633
+
